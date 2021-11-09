@@ -13,8 +13,42 @@ a:hover{
 .nav-link{
     color: #fff;
     font-weight: 500;
-    border-left: 2px solid rgb(1, 41, 1);
 }
 .navbar-collapse{
    justify-content: right;
+}
+.slant{
+    color: #648b44;
+}
+.first-section{
+    padding: 50px 0;
+}
+.first-section .col-md-6 p{
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+}
+.second-section{
+    padding: 100px 250px;
+    text-align: center;
+}
+.second-section h2{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+}
+.second-section p{
+    color: #fff;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.down-icon{
+    font-size: 18px;
+    background-color: #193503;
+    color: #fff;
+    border: 1px solid #648b44;
+    border-radius: 100%;
+    padding: 10px;
 }
