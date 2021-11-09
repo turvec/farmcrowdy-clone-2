@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #fff;
+}
+/* navbar */
+.navbar{
+    background-color: #000000;
+    padding:7px 50px;
+    
+}
+.nav-link{
+    color: #fff;
+    font-weight: 500;
+    border-left: 2px solid rgb(1, 41, 1);
+}
+.navbar-collapse{
+   justify-content: right;
+}
