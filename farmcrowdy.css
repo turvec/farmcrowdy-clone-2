@@ -52,3 +52,15 @@ a:hover{
     border-radius: 100%;
     padding: 10px;
 }
+#second-section-icon{
+text-align: center;
+padding: 90px 0;
+}
+.foods-text{
+    margin: 25px 0;
+}
+.foods-text h3{
+    color: #fff;
+    font-size: 17px;
+    line-height: 37px;
+}
